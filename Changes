@@ -2,6 +2,11 @@ Revision history for Log-Any-Adapter-Log-Dispatch
 
 ** denotes an incompatible change
 
+0.02  Jul 14, 2009
+
+- Fix detection methods (is_debug, etc.)
+- Really test all methods and aliases
+
 0.01  Jul 11, 2009
 
 - Initial version
